@@ -20,7 +20,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.17.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.17.1) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.18.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [max-rocket-internet/k8s-event-logger](https://github.com/max-rocket-internet/k8s-event-logger) [`2.2`](https://github.com/max-rocket-internet/k8s-event-logger/releases/tag/2.2) - Watches k8s cluster events and logs them to stdout in JSON
 
 ### ⭐ Recent Stars
