@@ -17,6 +17,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [Upgrade golang.org/x/net to v0.17.0](https://github.com/oauth2-proxy/oauth2-proxy/pull/2274) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 ### 🔭 Latest releases I've contributed to
 
