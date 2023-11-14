@@ -18,13 +18,15 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [Updated Redis and Prometheus Operator to the latest version](https://github.com/oauth2-proxy/manifests/pull/172) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+- [Fixed the case for serviceMonitor values section](https://github.com/oauth2-proxy/manifests/pull/171) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Removed ct timeout](https://github.com/oauth2-proxy/manifests/pull/169) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Upgrade helm to the latest version](https://github.com/oauth2-proxy/manifests/pull/168) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Update lint-test.yaml](https://github.com/oauth2-proxy/manifests/pull/167) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.18.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.1) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.19.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.5.1`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.5.1) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [max-rocket-internet/k8s-event-logger](https://github.com/max-rocket-internet/k8s-event-logger) [`2.2`](https://github.com/max-rocket-internet/k8s-event-logger/releases/tag/2.2) - Watches k8s cluster events and logs them to stdout in JSON
 
