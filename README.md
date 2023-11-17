@@ -40,8 +40,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 💖 Recent followers
 
+- [**@Farfaday**](https://github.com/Farfaday)
 - [**@D4Fi**](https://github.com/D4Fi)
 - [**@AYIDouble**](https://github.com/AYIDouble)
 - [**@varet80**](https://github.com/varet80)
 - [**@manager428**](https://github.com/manager428)
-- [**@peter-kimanzi**](https://github.com/peter-kimanzi)
