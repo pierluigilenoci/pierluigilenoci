@@ -20,8 +20,6 @@ Father and DevOps Engineer in Berlin, Germany
 
 - [Updated Redis and Prometheus Operator to the latest version](https://github.com/oauth2-proxy/manifests/pull/172) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Fixed the case for serviceMonitor values section](https://github.com/oauth2-proxy/manifests/pull/171) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [Removed ct timeout](https://github.com/oauth2-proxy/manifests/pull/169) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [Upgrade helm to the latest version](https://github.com/oauth2-proxy/manifests/pull/168) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
