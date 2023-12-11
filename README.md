@@ -10,8 +10,6 @@ Father and DevOps Engineer in Berlin, Germany
 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐
-- [max-rocket-internet/k8s-event-logger](https://github.com/max-rocket-internet/k8s-event-logger) - Watches k8s cluster events and logs them to stdout in JSON
 
 ### 🌱 My latest projects
 
