@@ -33,7 +33,7 @@ Father and DevOps Engineer in Berlin, Germany
 ### 💖 Recent followers
 
 - [**@GregSharpe1**](https://github.com/GregSharpe1)
-- [**@DoSmile0705**](https://github.com/DoSmile0705)
+- [**@LovelyPenguini**](https://github.com/LovelyPenguini)
 - [**@michaeldommet**](https://github.com/michaeldommet)
 - [**@Farfaday**](https://github.com/Farfaday)
 - [**@D4Fi**](https://github.com/D4Fi)
