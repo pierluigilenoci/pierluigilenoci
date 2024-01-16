@@ -16,6 +16,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [feat: added customAnnotations to RBAC Manager](https://github.com/crossplane/crossplane/pull/5243) on [crossplane/crossplane](https://github.com/crossplane/crossplane)
+- [feat: added customAnnotations to RBAC Manager](https://github.com/upbound/universal-crossplane/pull/420) on [upbound/universal-crossplane](https://github.com/upbound/universal-crossplane)
 
 ### 🔭 Latest releases I've contributed to
 
