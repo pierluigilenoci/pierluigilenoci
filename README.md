@@ -22,7 +22,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.14.5`](https://github.com/crossplane/crossplane/releases/tag/v1.14.5) - The Cloud Native Control Plane
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.15.0-rc.1`](https://github.com/crossplane/crossplane/releases/tag/v1.15.0-rc.1) - The Cloud Native Control Plane
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.23.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.23.1) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.5.1`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.5.1) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
