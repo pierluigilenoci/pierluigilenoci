@@ -8,8 +8,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 ### 🌱 My latest projects
@@ -17,22 +17,24 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [Upgrade to the latest version of Redis](https://github.com/oauth2-proxy/manifests/pull/186) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+- [Upgrade to the latest version of OAuth2-Proxy](https://github.com/oauth2-proxy/manifests/pull/185) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [feat: added customAnnotations to RBAC Manager](https://github.com/crossplane/crossplane/pull/5243) on [crossplane/crossplane](https://github.com/crossplane/crossplane)
 - [feat: added customAnnotations to RBAC Manager](https://github.com/upbound/universal-crossplane/pull/420) on [upbound/universal-crossplane](https://github.com/upbound/universal-crossplane)
 
 ### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.24.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.24.1) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.6.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.6.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.15.0-rc.1`](https://github.com/crossplane/crossplane/releases/tag/v1.15.0-rc.1) - The Cloud Native Control Plane
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.23.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.23.1) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.5.1`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.5.1) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 ### ⭐ Recent Stars
 
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [karlderkaefer/cdk-notifier](https://github.com/karlderkaefer/cdk-notifier) - CLI tool to post AWS CDK diff as comment to Github pull request
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89
 
 ### 💖 Recent followers
 
