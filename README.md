@@ -19,8 +19,6 @@ Father and DevOps Engineer in Berlin, Germany
 
 - [Upgrade to the latest version of Redis](https://github.com/oauth2-proxy/manifests/pull/186) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Upgrade to the latest version of OAuth2-Proxy](https://github.com/oauth2-proxy/manifests/pull/185) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [feat: added customAnnotations to RBAC Manager](https://github.com/crossplane/crossplane/pull/5243) on [crossplane/crossplane](https://github.com/crossplane/crossplane)
-- [feat: added customAnnotations to RBAC Manager](https://github.com/upbound/universal-crossplane/pull/420) on [upbound/universal-crossplane](https://github.com/upbound/universal-crossplane)
 
 ### 🔭 Latest releases I've contributed to
 
