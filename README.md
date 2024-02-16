@@ -18,13 +18,12 @@ Father and DevOps Engineer in Berlin, Germany
 ### 🔨 My recent Pull Requests
 
 - [Upgrade to the latest version of Redis](https://github.com/oauth2-proxy/manifests/pull/186) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [Upgrade to the latest version of OAuth2-Proxy](https://github.com/oauth2-proxy/manifests/pull/185) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.15.0`](https://github.com/crossplane/crossplane/releases/tag/v1.15.0) - The Cloud Native Control Plane
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.24.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.24.1) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.6.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.6.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.15.0-rc.1`](https://github.com/crossplane/crossplane/releases/tag/v1.15.0-rc.1) - The Cloud Native Control Plane
 
 ### ⭐ Recent Stars
 
