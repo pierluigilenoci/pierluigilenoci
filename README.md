@@ -17,8 +17,6 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
-- [ Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/195) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/194) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
