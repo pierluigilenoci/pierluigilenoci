@@ -9,22 +9,22 @@ Father and DevOps Engineer in Berlin, Germany
 ### 👷 Check out what I'm currently working on
 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 
 ### 🌱 My latest projects
 
 
 ### 🔨 My recent Pull Requests
 
+- [Upgraded all modules to the latest version](https://github.com/oauth2-proxy/oauth2-proxy/pull/2663) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+- [Updated the Redis chart to the latest version (19.5.2)](https://github.com/oauth2-proxy/manifests/pull/214) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Fixed chart inconsistencies](https://github.com/oauth2-proxy/manifests/pull/212) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Fixed test for horizontal autoscaling feature](https://github.com/oauth2-proxy/manifests/pull/211) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [Fixed the broken link in the README.md file](https://github.com/oauth2-proxy/manifests/pull/207) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/206) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.7.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.1) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.7.2`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.2) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.16.0`](https://github.com/crossplane/crossplane/releases/tag/v1.16.0) - The Cloud Native Control Plane
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.6.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.6.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
