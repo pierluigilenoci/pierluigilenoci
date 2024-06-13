@@ -19,8 +19,6 @@ Father and DevOps Engineer in Berlin, Germany
 
 - [Upgraded all modules to the latest version](https://github.com/oauth2-proxy/oauth2-proxy/pull/2663) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [Updated the Redis chart to the latest version (19.5.2)](https://github.com/oauth2-proxy/manifests/pull/214) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [Fixed chart inconsistencies](https://github.com/oauth2-proxy/manifests/pull/212) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [Fixed test for horizontal autoscaling feature](https://github.com/oauth2-proxy/manifests/pull/211) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
