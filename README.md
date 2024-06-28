@@ -17,12 +17,13 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/221) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Redis upgrade to v19.5.5](https://github.com/oauth2-proxy/manifests/pull/218) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Redis upgrade to v19.5.3](https://github.com/oauth2-proxy/manifests/pull/215) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.7.6`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.6) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.7.8`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.8) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.16.0`](https://github.com/crossplane/crossplane/releases/tag/v1.16.0) - The Cloud Native Control Plane
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.6.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.6.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
