@@ -17,15 +17,15 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [feat: added the ability to specify a command for the container](https://github.com/oauth2-proxy/manifests/pull/230) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/229) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/223) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/221) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Redis upgrade to v19.5.5](https://github.com/oauth2-proxy/manifests/pull/218) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [Redis upgrade to v19.5.3](https://github.com/oauth2-proxy/manifests/pull/215) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.7.12`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.12) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.7.13`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.13) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.17.0-rc.1`](https://github.com/crossplane/crossplane/releases/tag/v1.17.0-rc.1) - The Cloud Native Control Plane
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.6.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.6.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
