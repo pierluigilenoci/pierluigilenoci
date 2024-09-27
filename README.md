@@ -8,8 +8,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 
@@ -18,16 +18,16 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [chore: Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/241) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [chore: Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/240) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [chore: Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/238) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [chore: Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/237) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [chore: Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/236) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [chore: updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/235) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.7.22`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.22) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-chart-9.40.0`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.40.0) - Autoscaling components for Kubernetes
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.7.21`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.21) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.17.1`](https://github.com/crossplane/crossplane/releases/tag/v1.17.1) - The Cloud Native Control Plane
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.6.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.6.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
