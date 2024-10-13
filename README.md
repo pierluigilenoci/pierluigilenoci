@@ -18,16 +18,16 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [Manual renovate](https://github.com/oauth2-proxy/oauth2-proxy/pull/2814) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+- [chore: Updated the OAuth2 Proxy to the latest version.](https://github.com/oauth2-proxy/manifests/pull/246) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+- [chore: Updated the Redis chart to the latest version.](https://github.com/oauth2-proxy/manifests/pull/245) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [chore: Updated the Redis chart to the latest version.](https://github.com/oauth2-proxy/manifests/pull/243) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [chore: Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/241) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [chore: Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/240) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [chore: Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/238) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [chore: Updated the Redis chart to the latest version](https://github.com/oauth2-proxy/manifests/pull/237) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.7.26`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.26) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.7.1`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.7.1) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.7.24`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.24) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-chart-9.43.0`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.43.0) - Autoscaling components for Kubernetes
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.17.1`](https://github.com/crossplane/crossplane/releases/tag/v1.17.1) - The Cloud Native Control Plane
 
