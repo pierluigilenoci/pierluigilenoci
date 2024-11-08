@@ -19,7 +19,7 @@ Father and DevOps Engineer in Berlin, Germany
 ### 🔨 My recent Pull Requests
 
 - [chore(fix): Fix from the pre-commit integration](https://github.com/kubernetes/autoscaler/pull/7468) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
-- [chore(docs): integrate the FAQ and the helm chart](https://github.com/kubernetes/autoscaler/pull/7467) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+- [chore(helm): integrate the helm chart](https://github.com/kubernetes/autoscaler/pull/7467) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
 - [chore: Updated the Redis chart to the latest version.](https://github.com/oauth2-proxy/manifests/pull/247) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [Added the options to define revisionHistoryLimit for Crossplane and RBAC manager](https://github.com/crossplane/crossplane/pull/6013) on [crossplane/crossplane](https://github.com/crossplane/crossplane)
 - [Added the options to define revisionHistoryLimit for Crossplane and RBAC manager](https://github.com/upbound/universal-crossplane/pull/484) on [upbound/universal-crossplane](https://github.com/upbound/universal-crossplane)
