@@ -44,5 +44,5 @@ Father and DevOps Engineer in Berlin, Germany
 - [**@meliksahyorulmazlar**](https://github.com/meliksahyorulmazlar)
 - [**@aperovic-sap**](https://github.com/aperovic-sap)
 - [**@XiaomingX**](https://github.com/XiaomingX)
-- [**@trinhminhtriet**](https://github.com/trinhminhtriet)
 - [**@mustafacagri**](https://github.com/mustafacagri)
+- [**@mikelo**](https://github.com/mikelo)
