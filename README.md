@@ -26,8 +26,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-chart-9.45.0`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.45.0) - Autoscaling components for Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.9.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.9.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-chart-9.44.0`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.44.0) - Autoscaling components for Kubernetes
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.18.2`](https://github.com/crossplane/crossplane/releases/tag/v1.18.2) - The Cloud Native Control Plane
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.7.1`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.7.1) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
@@ -43,6 +43,6 @@ Father and DevOps Engineer in Berlin, Germany
 
 - [**@meliksahyorulmazlar**](https://github.com/meliksahyorulmazlar)
 - [**@aperovic-sap**](https://github.com/aperovic-sap)
-- [**@XiaomingX**](https://github.com/XiaomingX)
 - [**@mustafacagri**](https://github.com/mustafacagri)
 - [**@mikelo**](https://github.com/mikelo)
+- [**@OfficialCodeVoyage**](https://github.com/OfficialCodeVoyage)
