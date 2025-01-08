@@ -41,8 +41,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 💖 Recent followers
 
-- [**@meliksahyorulmazlar**](https://github.com/meliksahyorulmazlar)
 - [**@aperovic-sap**](https://github.com/aperovic-sap)
 - [**@mustafacagri**](https://github.com/mustafacagri)
 - [**@mikelo**](https://github.com/mikelo)
 - [**@OfficialCodeVoyage**](https://github.com/OfficialCodeVoyage)
+- [**@Daniel-Boluda**](https://github.com/Daniel-Boluda)
