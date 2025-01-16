@@ -26,8 +26,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.10.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.8.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.8.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.10.2`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.2) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.8.1`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.8.1) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-chart-9.45.0`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.45.0) - Autoscaling components for Kubernetes
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.18.2`](https://github.com/crossplane/crossplane/releases/tag/v1.18.2) - The Cloud Native Control Plane
 
@@ -41,8 +41,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 💖 Recent followers
 
+- [**@Invisibleaxe**](https://github.com/Invisibleaxe)
 - [**@aperovic-sap**](https://github.com/aperovic-sap)
 - [**@mustafacagri**](https://github.com/mustafacagri)
 - [**@mikelo**](https://github.com/mikelo)
 - [**@OfficialCodeVoyage**](https://github.com/OfficialCodeVoyage)
-- [**@Daniel-Boluda**](https://github.com/Daniel-Boluda)
