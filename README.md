@@ -26,10 +26,10 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.12.9`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.9) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.9.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.9.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.12.10`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.10) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v2.0.0-preview.1`](https://github.com/crossplane/crossplane/releases/tag/v2.0.0-preview.1) - The Cloud Native Control Plane
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-chart-9.46.6`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.46.6) - Autoscaling components for Kubernetes
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.8.2`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.8.2) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 ### ⭐ Recent Stars
 
