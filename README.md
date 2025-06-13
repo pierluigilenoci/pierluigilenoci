@@ -32,11 +32,11 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### ⭐ Recent Stars
 
+- [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit) - 
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [karlderkaefer/cdk-notifier](https://github.com/karlderkaefer/cdk-notifier) - CLI tool to post AWS CDK diff as comment to Github pull request
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89
 
 ### 💖 Recent followers
 
