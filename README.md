@@ -11,7 +11,6 @@ Father and DevOps Engineer in Berlin, Germany
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 ### 🌱 My latest projects
 
