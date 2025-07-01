@@ -31,7 +31,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### ⭐ Recent Stars
 
-- [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit) - 
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) - 
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [karlderkaefer/cdk-notifier](https://github.com/karlderkaefer/cdk-notifier) - CLI tool to post AWS CDK diff as comment to Github pull request
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
