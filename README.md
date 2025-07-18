@@ -17,16 +17,16 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update oauth2-proxy to v7.10.0](https://github.com/oauth2-proxy/manifests/pull/321) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [chore(feat): Added renovate](https://github.com/oauth2-proxy/manifests/pull/257) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [chore(deps): Updated the Redis chart to the latest version.](https://github.com/oauth2-proxy/manifests/pull/253) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [chore(docs): Fixed the readme](https://github.com/oauth2-proxy/manifests/pull/251) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [chore(deps): Updated the Redis chart to the latest version.](https://github.com/oauth2-proxy/manifests/pull/250) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [chore(fix): Fix from the pre-commit integration](https://github.com/kubernetes/autoscaler/pull/7468) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
 
 ### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.14.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.14.1) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-chart-9.48.0`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.48.0) - Autoscaling components for Kubernetes
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.12.19`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.19) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.19.2`](https://github.com/crossplane/crossplane/releases/tag/v1.19.2) - The Cloud Native Control Plane
 
 ### ⭐ Recent Stars
