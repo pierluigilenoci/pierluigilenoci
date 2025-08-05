@@ -25,8 +25,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-chart-9.49.0`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.49.0) - Autoscaling components for Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-7.16.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.16.0) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-1.32.2`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.32.2) - Autoscaling components for Kubernetes
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) [`v1.19.2`](https://github.com/crossplane/crossplane/releases/tag/v1.19.2) - The Cloud Native Control Plane
 
 ### ⭐ Recent Stars
