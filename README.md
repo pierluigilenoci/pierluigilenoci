@@ -12,7 +12,6 @@ Father and DevOps Engineer in Berlin, Germany
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) - Various helm charts migrated from [helm/stable] due to deprecation
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 
 ### 🌱 My latest projects
 
