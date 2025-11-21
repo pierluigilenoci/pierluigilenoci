@@ -26,9 +26,9 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`vertical-pod-autoscaler-chart-0.6.0`](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.6.0) - Autoscaling components for Kubernetes
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-9.0.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-9.0.0) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.3`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.3) - Various helm charts migrated from [helm/stable] due to deprecation
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-8.5.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.5.0) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-1.30.7`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.30.7) - Autoscaling components for Kubernetes
 - [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) [`v0.1.45`](https://github.com/signavio/aws-mfa-login/releases/tag/v0.1.45) - small CLI tool to do aws with mfa and update credentials in local aws config
 
 ### ⭐ Recent Stars
