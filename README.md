@@ -8,9 +8,9 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
+- [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) - small CLI tool to do aws with mfa and update credentials in local aws config
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [23andMe/Yamale](https://github.com/23andMe/Yamale) - A schema and validator for YAML.
-- [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) - small CLI tool to do aws with mfa and update credentials in local aws config
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) - Various helm charts migrated from [helm/stable] due to deprecation
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 
@@ -19,11 +19,11 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [Revert &#34;fix: Disable automerge for npm security&#34;](https://github.com/signavio/aws-mfa-login/pull/205) on [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login)
 - [Update chart-testing-action to version 2.8.0](https://github.com/oauth2-proxy/manifests/pull/374) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [[feature] python 3.14 support](https://github.com/23andMe/Yamale/pull/279) on [23andMe/Yamale](https://github.com/23andMe/Yamale)
 - [chore(docs): workaround for Python 3.14 incompatibility](https://github.com/helm/chart-testing/pull/787) on [helm/chart-testing](https://github.com/helm/chart-testing)
 - [fix: Disable automerge for npm security](https://github.com/signavio/aws-mfa-login/pull/197) on [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login)
-- [workflows: test against supported Kubernetes version](https://github.com/DandyDeveloper/charts/pull/346) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
 
 ### 🔭 Latest releases I've contributed to
 
