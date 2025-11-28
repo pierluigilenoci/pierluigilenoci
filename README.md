@@ -2,7 +2,7 @@
 
 Father and DevOps Engineer in Berlin, Germany
 
-![Pierluigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierluigilenoci&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=trasparent&cache_seconds=86400)
+
 
 [`📫 How to reach me`](https://about.me/pierluigi.lenoci)
 
@@ -14,7 +14,6 @@ Father and DevOps Engineer in Berlin, Germany
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) - Various helm charts migrated from [helm/stable] due to deprecation
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 
-### 🌱 My latest projects
 
 
 ### 🔨 My recent Pull Requests
@@ -24,6 +23,11 @@ Father and DevOps Engineer in Berlin, Germany
 - [[feature] python 3.14 support](https://github.com/23andMe/Yamale/pull/279) on [23andMe/Yamale](https://github.com/23andMe/Yamale)
 - [chore(docs): workaround for Python 3.14 incompatibility](https://github.com/helm/chart-testing/pull/787) on [helm/chart-testing](https://github.com/helm/chart-testing)
 - [fix: Disable automerge for npm security](https://github.com/signavio/aws-mfa-login/pull/197) on [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login)
+- [workflows: test against supported Kubernetes version](https://github.com/DandyDeveloper/charts/pull/346) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
+- [workflows: test against supported Kubernetes version](https://github.com/DandyDeveloper/charts/pull/345) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
+- [[stable/redis-ha] Upgraded redis to 8.2.1-alpine](https://github.com/DandyDeveloper/charts/pull/344) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
+- [Fix split brain in CI test](https://github.com/oauth2-proxy/manifests/pull/345) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+- [PDB fix with HPA enabled](https://github.com/oauth2-proxy/manifests/pull/341) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
