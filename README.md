@@ -31,7 +31,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-1.32.5`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.32.5) - Autoscaling components for Kubernetes
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-chart-9.53.0`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.53.0) - Autoscaling components for Kubernetes
 - [23andMe/Yamale](https://github.com/23andMe/Yamale) [`6.1.0`](https://github.com/23andMe/Yamale/releases/tag/6.1.0) - A schema and validator for YAML.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-9.0.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-9.0.0) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.3`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.3) - Various helm charts migrated from [helm/stable] due to deprecation
