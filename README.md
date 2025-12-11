@@ -18,6 +18,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [feat: Add support for custom pod labels, annotations, and security contexts](https://github.com/k8sgpt-ai/k8sgpt-operator/pull/777) on [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)
 - [Revert &#34;fix: Disable automerge for npm security&#34;](https://github.com/signavio/aws-mfa-login/pull/205) on [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login)
 - [Update chart-testing-action to version 2.8.0](https://github.com/oauth2-proxy/manifests/pull/374) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [[feature] python 3.14 support](https://github.com/23andMe/Yamale/pull/279) on [23andMe/Yamale](https://github.com/23andMe/Yamale)
@@ -27,7 +28,6 @@ Father and DevOps Engineer in Berlin, Germany
 - [workflows: test against supported Kubernetes version](https://github.com/DandyDeveloper/charts/pull/345) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
 - [[stable/redis-ha] Upgraded redis to 8.2.1-alpine](https://github.com/DandyDeveloper/charts/pull/344) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
 - [Fix split brain in CI test](https://github.com/oauth2-proxy/manifests/pull/345) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [PDB fix with HPA enabled](https://github.com/oauth2-proxy/manifests/pull/341) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
