@@ -18,6 +18,9 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [feat: fix stderrthreshold not honored when logtostderr is set (#212) &#43; two new flags](https://github.com/kubernetes/klog/pull/432) on [kubernetes/klog](https://github.com/kubernetes/klog)
+- [feat: add support for imagePullSecrets and custom CA bundle](https://github.com/kyma-project/telemetry-manager/pull/2762) on [kyma-project/telemetry-manager](https://github.com/kyma-project/telemetry-manager)
+- [feat: add support for custom annotations and labels on telemetry gateways](https://github.com/kyma-project/telemetry-manager/pull/2761) on [kyma-project/telemetry-manager](https://github.com/kyma-project/telemetry-manager)
 - [feat: Add support for custom pod labels, annotations, and security contexts](https://github.com/k8sgpt-ai/k8sgpt-operator/pull/777) on [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)
 - [Revert &#34;fix: Disable automerge for npm security&#34;](https://github.com/signavio/aws-mfa-login/pull/205) on [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login)
 - [Update chart-testing-action to version 2.8.0](https://github.com/oauth2-proxy/manifests/pull/374) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
@@ -25,13 +28,10 @@ Father and DevOps Engineer in Berlin, Germany
 - [chore(docs): workaround for Python 3.14 incompatibility](https://github.com/helm/chart-testing/pull/787) on [helm/chart-testing](https://github.com/helm/chart-testing)
 - [fix: Disable automerge for npm security](https://github.com/signavio/aws-mfa-login/pull/197) on [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login)
 - [workflows: test against supported Kubernetes version](https://github.com/DandyDeveloper/charts/pull/346) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
-- [workflows: test against supported Kubernetes version](https://github.com/DandyDeveloper/charts/pull/345) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
-- [[stable/redis-ha] Upgraded redis to 8.2.1-alpine](https://github.com/DandyDeveloper/charts/pull/344) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
-- [Fix split brain in CI test](https://github.com/oauth2-proxy/manifests/pull/345) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-chart-9.54.0`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.54.0) - Autoscaling components for Kubernetes
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`vertical-pod-autoscaler-chart-0.7.0`](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.7.0) - Autoscaling components for Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-9.0.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-9.0.1) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.5`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.5) - Various helm charts migrated from [helm/stable] due to deprecation
 - [23andMe/Yamale](https://github.com/23andMe/Yamale) [`6.1.0`](https://github.com/23andMe/Yamale/releases/tag/6.1.0) - A schema and validator for YAML.
