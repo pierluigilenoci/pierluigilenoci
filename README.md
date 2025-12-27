@@ -47,8 +47,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 💖 Recent followers
 
+- [**@rolloerro**](https://github.com/rolloerro)
+- [**@marcodelpin**](https://github.com/marcodelpin)
 - [**@Khaled-Teama**](https://github.com/Khaled-Teama)
 - [**@Wolkenfarmer**](https://github.com/Wolkenfarmer)
 - [**@Invisibleaxe**](https://github.com/Invisibleaxe)
-- [**@aperovic-sap**](https://github.com/aperovic-sap)
-- [**@mustafacagri**](https://github.com/mustafacagri)
