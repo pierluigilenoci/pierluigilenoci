@@ -47,8 +47,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 💖 Recent followers
 
+- [**@sirmmo**](https://github.com/sirmmo)
 - [**@rolloerro**](https://github.com/rolloerro)
 - [**@marcodelpin**](https://github.com/marcodelpin)
 - [**@Khaled-Teama**](https://github.com/Khaled-Teama)
 - [**@Wolkenfarmer**](https://github.com/Wolkenfarmer)
-- [**@Invisibleaxe**](https://github.com/Invisibleaxe)
