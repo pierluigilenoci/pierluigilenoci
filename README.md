@@ -18,7 +18,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
-- [[WIP] feat: Add forceLegacyConfig flag for alphaConfig compatibility](https://github.com/oauth2-proxy/manifests/pull/385) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
+- [docs: add Kubernetes Dashboard integration guide for Azure Entra ID](https://github.com/oauth2-proxy/oauth2-proxy/pull/3299) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+- [feat: Add forceLegacyConfig flag for alphaConfig compatibility](https://github.com/oauth2-proxy/manifests/pull/385) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [feat: add config.secretKeys to selectively include secrets](https://github.com/oauth2-proxy/manifests/pull/384) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [fix: correct image registry priority order](https://github.com/oauth2-proxy/manifests/pull/383) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [docs: add explicit warning for redis single replica configuration](https://github.com/oauth2-proxy/manifests/pull/382) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
@@ -27,7 +28,6 @@ Father and DevOps Engineer in Berlin, Germany
 - [feat: add support for imagePullSecrets and custom CA bundle](https://github.com/kyma-project/telemetry-manager/pull/2762) on [kyma-project/telemetry-manager](https://github.com/kyma-project/telemetry-manager)
 - [feat: add support for custom annotations and labels on telemetry gateways](https://github.com/kyma-project/telemetry-manager/pull/2761) on [kyma-project/telemetry-manager](https://github.com/kyma-project/telemetry-manager)
 - [feat: Add support for custom pod labels, annotations, and security contexts](https://github.com/k8sgpt-ai/k8sgpt-operator/pull/777) on [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)
-- [Revert &#34;fix: Disable automerge for npm security&#34;](https://github.com/signavio/aws-mfa-login/pull/205) on [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login)
 
 ### 🔭 Latest releases I've contributed to
 
