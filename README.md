@@ -32,7 +32,6 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) [`cluster-autoscaler-chart-9.54.1`](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.54.1) - Autoscaling components for Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.0.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.0.0) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) [`v0.1.46`](https://github.com/signavio/aws-mfa-login/releases/tag/v0.1.46) - small CLI tool to do aws with mfa and update credentials in local aws config
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.5`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.5) - Various helm charts migrated from [helm/stable] due to deprecation
