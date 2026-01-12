@@ -13,7 +13,6 @@ Father and DevOps Engineer in Berlin, Germany
 - [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) - small CLI tool to do aws with mfa and update credentials in local aws config
 - [23andMe/Yamale](https://github.com/23andMe/Yamale) - A schema and validator for YAML.
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) - Various helm charts migrated from [helm/stable] due to deprecation
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 
 
 
@@ -51,5 +50,5 @@ Father and DevOps Engineer in Berlin, Germany
 - [**@sirmmo**](https://github.com/sirmmo)
 - [**@rolloerro**](https://github.com/rolloerro)
 - [**@marcodelpin**](https://github.com/marcodelpin)
-- [**@Khaled-Teama**](https://github.com/Khaled-Teama)
 - [**@Wolkenfarmer**](https://github.com/Wolkenfarmer)
+- [**@Invisibleaxe**](https://github.com/Invisibleaxe)
