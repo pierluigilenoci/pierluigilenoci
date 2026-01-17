@@ -9,6 +9,7 @@ Father and DevOps Engineer in Berlin, Germany
 ### 👷 Check out what I'm currently working on
 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
 - [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) - small CLI tool to do aws with mfa and update credentials in local aws config
 - [23andMe/Yamale](https://github.com/23andMe/Yamale) - A schema and validator for YAML.
@@ -18,6 +19,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [feat: add pr review-thread command for managing review threads](https://github.com/cli/cli/pull/12482) on [cli/cli](https://github.com/cli/cli)
 - [docs: split integration.md into separate integration guides](https://github.com/oauth2-proxy/oauth2-proxy/pull/3299) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [feat: Add forceLegacyConfig flag for alphaConfig compatibility](https://github.com/oauth2-proxy/manifests/pull/385) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [feat: add config.secretKeys to selectively include secrets](https://github.com/oauth2-proxy/manifests/pull/384) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
@@ -27,7 +29,6 @@ Father and DevOps Engineer in Berlin, Germany
 - [feat: fix stderrthreshold not honored when logtostderr is set (#212) &#43; two new flags](https://github.com/kubernetes/klog/pull/432) on [kubernetes/klog](https://github.com/kubernetes/klog)
 - [feat: add support for imagePullSecrets and custom CA bundle](https://github.com/kyma-project/telemetry-manager/pull/2762) on [kyma-project/telemetry-manager](https://github.com/kyma-project/telemetry-manager)
 - [feat: add support for custom annotations and labels on telemetry gateways](https://github.com/kyma-project/telemetry-manager/pull/2761) on [kyma-project/telemetry-manager](https://github.com/kyma-project/telemetry-manager)
-- [feat: Add support for custom pod labels, annotations, and security contexts](https://github.com/k8sgpt-ai/k8sgpt-operator/pull/777) on [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -35,6 +36,7 @@ Father and DevOps Engineer in Berlin, Germany
 - [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) [`v0.1.46`](https://github.com/signavio/aws-mfa-login/releases/tag/v0.1.46) - small CLI tool to do aws with mfa and update credentials in local aws config
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.5`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.5) - Various helm charts migrated from [helm/stable] due to deprecation
 - [23andMe/Yamale](https://github.com/23andMe/Yamale) [`6.1.0`](https://github.com/23andMe/Yamale/releases/tag/6.1.0) - A schema and validator for YAML.
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.13.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.13.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) [`v0.2.24`](https://github.com/k8sgpt-ai/k8sgpt-operator/releases/tag/v0.2.24) - Automatic SRE Superpowers within your Kubernetes cluster
 
 ### ⭐ Recent Stars
