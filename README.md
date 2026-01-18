@@ -32,11 +32,11 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.14.2`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.14.2) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.1.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.1.0) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) [`v0.1.46`](https://github.com/signavio/aws-mfa-login/releases/tag/v0.1.46) - small CLI tool to do aws with mfa and update credentials in local aws config
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.5`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.5) - Various helm charts migrated from [helm/stable] due to deprecation
 - [23andMe/Yamale](https://github.com/23andMe/Yamale) [`6.1.0`](https://github.com/23andMe/Yamale/releases/tag/6.1.0) - A schema and validator for YAML.
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.13.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.13.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) [`v0.2.24`](https://github.com/k8sgpt-ai/k8sgpt-operator/releases/tag/v0.2.24) - Automatic SRE Superpowers within your Kubernetes cluster
 
 ### ⭐ Recent Stars
