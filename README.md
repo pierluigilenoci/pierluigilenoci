@@ -8,8 +8,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [pierluigilenoci/opinioni-artificiali](https://github.com/pierluigilenoci/opinioni-artificiali) - Editoriali e letture generate dall&#39;AI. Quando l&#39;intelligenza artificiale ha opinioni (discutibili) su tutto.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
 - [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) - small CLI tool to do aws with mfa and update credentials in local aws config
