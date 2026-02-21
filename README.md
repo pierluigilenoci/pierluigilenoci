@@ -41,11 +41,11 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### ⭐ Recent Stars
 
+- [agynio/gh-pr-review](https://github.com/agynio/gh-pr-review) - GitHub CLI extension that adds full inline PR review comment support — view, navigate, reply to, and resolve review threads directly from the terminal. LLM-ready and ideal for automated PR review agents.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Red-Killer/shit](https://github.com/Red-Killer/shit) - 
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [karlderkaefer/cdk-notifier](https://github.com/karlderkaefer/cdk-notifier) - CLI tool to post AWS CDK diff as comment to Github pull request
-- [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 
 ### 💖 Recent followers
 
