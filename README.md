@@ -19,6 +19,9 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [fix: clean up command templates (specify, analyze)](https://github.com/github/spec-kit/pull/1810) on [github/spec-kit](https://github.com/github/spec-kit)
+- [fix: harden bash scripts against shell injection and improve error handling](https://github.com/github/spec-kit/pull/1809) on [github/spec-kit](https://github.com/github/spec-kit)
+- [fix: harden bash scripts against shell injection and improve error handling](https://github.com/pierluigilenoci/spec-kit/pull/1) on [pierluigilenoci/spec-kit](https://github.com/pierluigilenoci/spec-kit)
 - [feat: add pr review-thread command for managing review threads](https://github.com/cli/cli/pull/12482) on [cli/cli](https://github.com/cli/cli)
 - [docs: split integration.md into separate integration guides](https://github.com/oauth2-proxy/oauth2-proxy/pull/3299) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [feat: Add forceLegacyConfig flag for alphaConfig compatibility](https://github.com/oauth2-proxy/manifests/pull/385) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
@@ -26,9 +29,6 @@ Father and DevOps Engineer in Berlin, Germany
 - [fix: correct image registry priority order](https://github.com/oauth2-proxy/manifests/pull/383) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [docs: add explicit warning for redis single replica configuration](https://github.com/oauth2-proxy/manifests/pull/382) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [fix: add skip_existing to chart-releaser to prevent workflow failures](https://github.com/oauth2-proxy/manifests/pull/381) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [feat: fix stderrthreshold not honored when logtostderr is set (#212) &#43; two new flags](https://github.com/kubernetes/klog/pull/432) on [kubernetes/klog](https://github.com/kubernetes/klog)
-- [feat: add support for imagePullSecrets and custom CA bundle](https://github.com/kyma-project/telemetry-manager/pull/2762) on [kyma-project/telemetry-manager](https://github.com/kyma-project/telemetry-manager)
-- [feat: add support for custom annotations and labels on telemetry gateways](https://github.com/kyma-project/telemetry-manager/pull/2761) on [kyma-project/telemetry-manager](https://github.com/kyma-project/telemetry-manager)
 
 ### 🔭 Latest releases I've contributed to
 
