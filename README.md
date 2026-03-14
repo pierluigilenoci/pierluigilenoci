@@ -8,6 +8,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
@@ -19,6 +20,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [fix: move CRDs from templates/ to crds/ for proper Helm 3 lifecycle](https://github.com/k8sgpt-ai/k8sgpt-operator/pull/802) on [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)
 - [fix: clean up command templates (specify, analyze)](https://github.com/github/spec-kit/pull/1810) on [github/spec-kit](https://github.com/github/spec-kit)
 - [fix: harden bash scripts against shell injection and improve error handling](https://github.com/github/spec-kit/pull/1809) on [github/spec-kit](https://github.com/github/spec-kit)
 - [fix: harden bash scripts against shell injection and improve error handling](https://github.com/pierluigilenoci/spec-kit/pull/1) on [pierluigilenoci/spec-kit](https://github.com/pierluigilenoci/spec-kit)
@@ -28,10 +30,10 @@ Father and DevOps Engineer in Berlin, Germany
 - [feat: add config.secretKeys to selectively include secrets](https://github.com/oauth2-proxy/manifests/pull/384) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [fix: correct image registry priority order](https://github.com/oauth2-proxy/manifests/pull/383) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [docs: add explicit warning for redis single replica configuration](https://github.com/oauth2-proxy/manifests/pull/382) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [fix: add skip_existing to chart-releaser to prevent workflow failures](https://github.com/oauth2-proxy/manifests/pull/381) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
+- [github/spec-kit](https://github.com/github/spec-kit) [`v0.3.0`](https://github.com/github/spec-kit/releases/tag/v0.3.0) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.14.3`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.14.3) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.1.4`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.1.4) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.10`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.10) - Various helm charts migrated from [helm/stable] due to deprecation
