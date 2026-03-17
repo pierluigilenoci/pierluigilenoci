@@ -20,16 +20,16 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [fix(scripts): encode residual JSON control chars as \uXXXX instead of stripping](https://github.com/github/spec-kit/pull/1872) on [github/spec-kit](https://github.com/github/spec-kit)
+- [fix(scripts): harden bash scripts — escape, compat, and error handling](https://github.com/github/spec-kit/pull/1869) on [github/spec-kit](https://github.com/github/spec-kit)
+- [fix: gofmt formatting and add pre-commit hooks](https://github.com/kubernetes/klog/pull/435) on [kubernetes/klog](https://github.com/kubernetes/klog)
 - [fix: move CRDs from templates/ to crds/ for proper Helm 3 lifecycle](https://github.com/k8sgpt-ai/k8sgpt-operator/pull/802) on [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)
 - [fix: clean up command templates (specify, analyze)](https://github.com/github/spec-kit/pull/1810) on [github/spec-kit](https://github.com/github/spec-kit)
 - [fix: harden bash scripts against shell injection and improve error handling](https://github.com/github/spec-kit/pull/1809) on [github/spec-kit](https://github.com/github/spec-kit)
-- [fix: harden bash scripts against shell injection and improve error handling](https://github.com/pierluigilenoci/spec-kit/pull/1) on [pierluigilenoci/spec-kit](https://github.com/pierluigilenoci/spec-kit)
 - [feat: add pr review-thread command for managing review threads](https://github.com/cli/cli/pull/12482) on [cli/cli](https://github.com/cli/cli)
 - [docs: split integration.md into separate integration guides](https://github.com/oauth2-proxy/oauth2-proxy/pull/3299) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [feat: Add forceLegacyConfig flag for alphaConfig compatibility](https://github.com/oauth2-proxy/manifests/pull/385) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 - [feat: add config.secretKeys to selectively include secrets](https://github.com/oauth2-proxy/manifests/pull/384) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [fix: correct image registry priority order](https://github.com/oauth2-proxy/manifests/pull/383) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [docs: add explicit warning for redis single replica configuration](https://github.com/oauth2-proxy/manifests/pull/382) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
