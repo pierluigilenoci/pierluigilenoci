@@ -20,20 +20,20 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [Update pierluigilenoci affiliation emails](https://github.com/cncf/gitdm/pull/1041) on [cncf/gitdm](https://github.com/cncf/gitdm)
+- [Add lint as required status check for kubernetes/klog](https://github.com/kubernetes/test-infra/pull/36671) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 - [fix(scripts): encode residual JSON control chars as \uXXXX instead of stripping](https://github.com/github/spec-kit/pull/1872) on [github/spec-kit](https://github.com/github/spec-kit)
 - [fix(scripts): harden bash scripts — escape, compat, and error handling](https://github.com/github/spec-kit/pull/1869) on [github/spec-kit](https://github.com/github/spec-kit)
-- [fix: gofmt formatting and add pre-commit hooks](https://github.com/kubernetes/klog/pull/435) on [kubernetes/klog](https://github.com/kubernetes/klog)
+- [fix: apply gofmt formatting to package doc comment in klog.go](https://github.com/kubernetes/klog/pull/435) on [kubernetes/klog](https://github.com/kubernetes/klog)
 - [fix: move CRDs from templates/ to crds/ for proper Helm 3 lifecycle](https://github.com/k8sgpt-ai/k8sgpt-operator/pull/802) on [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)
 - [fix: clean up command templates (specify, analyze)](https://github.com/github/spec-kit/pull/1810) on [github/spec-kit](https://github.com/github/spec-kit)
 - [fix: harden bash scripts against shell injection and improve error handling](https://github.com/github/spec-kit/pull/1809) on [github/spec-kit](https://github.com/github/spec-kit)
 - [feat: add pr review-thread command for managing review threads](https://github.com/cli/cli/pull/12482) on [cli/cli](https://github.com/cli/cli)
 - [docs: split integration.md into separate integration guides](https://github.com/oauth2-proxy/oauth2-proxy/pull/3299) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [feat: Add forceLegacyConfig flag for alphaConfig compatibility](https://github.com/oauth2-proxy/manifests/pull/385) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
-- [feat: add config.secretKeys to selectively include secrets](https://github.com/oauth2-proxy/manifests/pull/384) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests)
 
 ### 🔭 Latest releases I've contributed to
 
-- [github/spec-kit](https://github.com/github/spec-kit) [`v0.3.0`](https://github.com/github/spec-kit/releases/tag/v0.3.0) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) [`v0.3.1`](https://github.com/github/spec-kit/releases/tag/v0.3.1) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.14.3`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.14.3) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.1.4`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.1.4) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.10`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.10) - Various helm charts migrated from [helm/stable] due to deprecation
