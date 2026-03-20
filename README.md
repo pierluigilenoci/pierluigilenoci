@@ -20,6 +20,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [fix: replace hardcoded kube-proxy target with workflow parameters](https://github.com/litmuschaos/chaos-charts/pull/664) on [litmuschaos/chaos-charts](https://github.com/litmuschaos/chaos-charts)
 - [Add savings subcommand for request sizing recommendations](https://github.com/kubecost/kubectl-cost/pull/224) on [kubecost/kubectl-cost](https://github.com/kubecost/kubectl-cost)
 - [fix(litmus-helm-agent): align label selectors with litmus-agent Helm chart](https://github.com/litmuschaos/test-tools/pull/721) on [litmuschaos/test-tools](https://github.com/litmuschaos/test-tools)
 - [fix(crds): remove allowEmptyValue to fix ArgoCD perpetual OutOfSync](https://github.com/litmuschaos/litmus-helm/pull/481) on [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
@@ -29,12 +30,11 @@ Father and DevOps Engineer in Berlin, Germany
 - [Update pierluigilenoci affiliation emails](https://github.com/cncf/gitdm/pull/1041) on [cncf/gitdm](https://github.com/cncf/gitdm)
 - [Add lint as required status check for kubernetes/klog](https://github.com/kubernetes/test-infra/pull/36671) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 - [fix(scripts): encode residual JSON control chars as \uXXXX instead of stripping](https://github.com/github/spec-kit/pull/1872) on [github/spec-kit](https://github.com/github/spec-kit)
-- [fix(scripts): harden bash scripts — escape, compat, and error handling](https://github.com/github/spec-kit/pull/1869) on [github/spec-kit](https://github.com/github/spec-kit)
 
 ### 🔭 Latest releases I've contributed to
 
+- [github/spec-kit](https://github.com/github/spec-kit) [`v0.3.2`](https://github.com/github/spec-kit/releases/tag/v0.3.2) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.15.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.15.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [github/spec-kit](https://github.com/github/spec-kit) [`v0.3.1`](https://github.com/github/spec-kit/releases/tag/v0.3.1) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.1.4`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.1.4) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.10`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.10) - Various helm charts migrated from [helm/stable] due to deprecation
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) [`v0.2.25`](https://github.com/k8sgpt-ai/k8sgpt-operator/releases/tag/v0.2.25) - Automatic SRE Superpowers within your Kubernetes cluster
