@@ -8,8 +8,9 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) - small CLI tool to do aws with mfa and update credentials in local aws config
@@ -33,11 +34,11 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
+- [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) [`v0.2.26`](https://github.com/k8sgpt-ai/k8sgpt-operator/releases/tag/v0.2.26) - Automatic SRE Superpowers within your Kubernetes cluster
 - [github/spec-kit](https://github.com/github/spec-kit) [`v0.3.2`](https://github.com/github/spec-kit/releases/tag/v0.3.2) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.15.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.15.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.1.4`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.1.4) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.10`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.10) - Various helm charts migrated from [helm/stable] due to deprecation
-- [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) [`v0.2.25`](https://github.com/k8sgpt-ai/k8sgpt-operator/releases/tag/v0.2.25) - Automatic SRE Superpowers within your Kubernetes cluster
 - [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) [`v0.1.46`](https://github.com/signavio/aws-mfa-login/releases/tag/v0.1.46) - small CLI tool to do aws with mfa and update credentials in local aws config
 - [23andMe/Yamale](https://github.com/23andMe/Yamale) [`6.1.0`](https://github.com/23andMe/Yamale/releases/tag/6.1.0) - A schema and validator for YAML.
 
