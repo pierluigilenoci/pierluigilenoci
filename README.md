@@ -34,7 +34,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.1.5`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.1.5) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.2.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.2.0) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) [`v0.2.26`](https://github.com/k8sgpt-ai/k8sgpt-operator/releases/tag/v0.2.26) - Automatic SRE Superpowers within your Kubernetes cluster
 - [github/spec-kit](https://github.com/github/spec-kit) [`v0.3.2`](https://github.com/github/spec-kit/releases/tag/v0.3.2) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.15.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.15.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
