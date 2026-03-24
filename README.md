@@ -8,6 +8,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
+- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -21,23 +22,24 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
-- [fix: replace hardcoded kube-proxy target with workflow parameters](https://github.com/litmuschaos/chaos-charts/pull/664) on [litmuschaos/chaos-charts](https://github.com/litmuschaos/chaos-charts)
-- [Add savings subcommand for request sizing recommendations](https://github.com/kubecost/kubectl-cost/pull/224) on [kubecost/kubectl-cost](https://github.com/kubecost/kubectl-cost)
-- [fix(litmus-helm-agent): align label selectors with litmus-agent Helm chart](https://github.com/litmuschaos/test-tools/pull/721) on [litmuschaos/test-tools](https://github.com/litmuschaos/test-tools)
-- [fix(crds): remove allowEmptyValue to fix ArgoCD perpetual OutOfSync](https://github.com/litmuschaos/litmus-helm/pull/481) on [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
-- [fix(litmus-agent): fix hook secret name mismatch and subscriber subchart dependency](https://github.com/litmuschaos/litmus-helm/pull/480) on [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
-- [fix(chart): improve chart-testing lint configuration](https://github.com/komodorio/komoplane/pull/95) on [komodorio/komoplane](https://github.com/komodorio/komoplane)
-- [fix: set K8SGPT_TOP_P=0 to avoid Anthropic API rejection](https://github.com/k8sgpt-ai/k8sgpt-operator/pull/804) on [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)
-- [Update pierluigilenoci affiliation emails](https://github.com/cncf/gitdm/pull/1041) on [cncf/gitdm](https://github.com/cncf/gitdm)
-- [Add lint as required status check for kubernetes/klog](https://github.com/kubernetes/test-infra/pull/36671) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-- [fix(scripts): encode residual JSON control chars as \uXXXX instead of stripping](https://github.com/github/spec-kit/pull/1872) on [github/spec-kit](https://github.com/github/spec-kit)
+- [cluster-autoscaler: honor stderrthreshold when logtostderr is enabled](https://github.com/kubernetes/autoscaler/pull/9408) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+- [Honor stderrthreshold when logtostderr is enabled](https://github.com/kubernetes-sigs/azurefile-csi-driver/pull/3037) on [kubernetes-sigs/azurefile-csi-driver](https://github.com/kubernetes-sigs/azurefile-csi-driver)
+- [discovery/vultr: upgrade govultr from v2 to v3](https://github.com/prometheus/prometheus/pull/18347) on [prometheus/prometheus](https://github.com/prometheus/prometheus)
+- [Honor stderrthreshold when logtostderr is enabled](https://github.com/kubernetes-sigs/metrics-server/pull/1782) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
+- [docs: fix minor documentation issues](https://github.com/alibaba/arthas/pull/3159) on [alibaba/arthas](https://github.com/alibaba/arthas)
+- [docker: replace deprecated openjdk base image with eclipse-temurin](https://github.com/alibaba/arthas/pull/3158) on [alibaba/arthas](https://github.com/alibaba/arthas)
+- [ci: upgrade GitHub Actions to latest versions](https://github.com/alibaba/arthas/pull/3157) on [alibaba/arthas](https://github.com/alibaba/arthas)
+- [ci: add Java to CodeQL security analysis](https://github.com/alibaba/arthas/pull/3156) on [alibaba/arthas](https://github.com/alibaba/arthas)
+- [promtool: redirect debug output to stderr](https://github.com/prometheus/prometheus/pull/18346) on [prometheus/prometheus](https://github.com/prometheus/prometheus)
+- [Honor stderrthreshold when logtostderr is enabled](https://github.com/kedacore/keda/pull/7568) on [kedacore/keda](https://github.com/kedacore/keda)
 
 ### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.15.1`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.15.1) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [github/spec-kit](https://github.com/github/spec-kit) [`v0.4.0`](https://github.com/github/spec-kit/releases/tag/v0.4.0) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.2.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.2.0) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) [`v0.2.26`](https://github.com/k8sgpt-ai/k8sgpt-operator/releases/tag/v0.2.26) - Automatic SRE Superpowers within your Kubernetes cluster
-- [github/spec-kit](https://github.com/github/spec-kit) [`v0.3.2`](https://github.com/github/spec-kit/releases/tag/v0.3.2) - 💫 Toolkit to help you get started with Spec-Driven Development
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.15.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.15.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [alibaba/nacos](https://github.com/alibaba/nacos) [`3.2.0-BETA`](https://github.com/alibaba/nacos/releases/tag/3.2.0-BETA) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.10`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.10) - Various helm charts migrated from [helm/stable] due to deprecation
 - [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) [`v0.1.46`](https://github.com/signavio/aws-mfa-login/releases/tag/v0.1.46) - small CLI tool to do aws with mfa and update credentials in local aws config
 - [23andMe/Yamale](https://github.com/23andMe/Yamale) [`6.1.0`](https://github.com/23andMe/Yamale/releases/tag/6.1.0) - A schema and validator for YAML.
