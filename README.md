@@ -2,7 +2,7 @@
 
 Father and DevOps Engineer in Berlin, Germany
 
-
+![Pierluigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierluigilenoci&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&cache_seconds=86400)
 
 [`📫 How to reach me`](https://about.me/pierluigi.lenoci)
 
