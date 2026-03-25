@@ -23,22 +23,22 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔨 My recent Pull Requests
 
+- [fix(admin-ui): enable no-unnecessary-condition ESLint rule](https://github.com/keycloak/keycloak/pull/47408) on [keycloak/keycloak](https://github.com/keycloak/keycloak)
 - [Honor stderrthreshold when logtostderr is enabled](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner/pull/386) on [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner)
 - [Honor stderrthreshold when logtostderr is enabled](https://github.com/kyverno/kyverno/pull/15711) on [kyverno/kyverno](https://github.com/kyverno/kyverno)
 - [Honor stderrthreshold when logtostderr is enabled](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/pull/2291) on [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver)
-- [Honor stderrthreshold when logtostderr is enabled](https://github.com/kubernetes/kube-state-metrics/pull/2906) on [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
+- [fix: honor stderrthreshold when logtostderr is enabled](https://github.com/kubernetes/kube-state-metrics/pull/2906) on [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
 - [Honor stderrthreshold when logtostderr is enabled](https://github.com/kubernetes-csi/csi-driver-nfs/pull/1078) on [kubernetes-csi/csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs)
 - [refactor(admin-ui): replace use-react-router-breadcrumbs with React Router native useMatches](https://github.com/keycloak/keycloak/pull/47400) on [keycloak/keycloak](https://github.com/keycloak/keycloak)
 - [fix(admin-ui): replace explicit `catch (error: any)` with proper types](https://github.com/keycloak/keycloak/pull/47397) on [keycloak/keycloak](https://github.com/keycloak/keycloak)
 - [Migrate to klog/v2 v2.140.0 and honor stderrthreshold when logtostderr is enabled](https://github.com/operator-framework/operator-lifecycle-manager/pull/3801) on [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager)
 - [cluster-autoscaler: honor stderrthreshold when logtostderr is enabled](https://github.com/kubernetes/autoscaler/pull/9408) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
-- [Honor stderrthreshold when logtostderr is enabled](https://github.com/kubernetes-sigs/azurefile-csi-driver/pull/3037) on [kubernetes-sigs/azurefile-csi-driver](https://github.com/kubernetes-sigs/azurefile-csi-driver)
 
 ### 🔭 Latest releases I've contributed to
 
+- [github/spec-kit](https://github.com/github/spec-kit) [`v0.4.1`](https://github.com/github/spec-kit/releases/tag/v0.4.1) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.3.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.3.0) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.15.1`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.15.1) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [github/spec-kit](https://github.com/github/spec-kit) [`v0.4.0`](https://github.com/github/spec-kit/releases/tag/v0.4.0) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) [`v0.2.26`](https://github.com/k8sgpt-ai/k8sgpt-operator/releases/tag/v0.2.26) - Automatic SRE Superpowers within your Kubernetes cluster
 - [alibaba/nacos](https://github.com/alibaba/nacos) [`3.2.0-BETA`](https://github.com/alibaba/nacos/releases/tag/3.2.0-BETA) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) [`v3.10.0`](https://github.com/prometheus/prometheus/releases/tag/v3.10.0) - The Prometheus monitoring system and time series database.
