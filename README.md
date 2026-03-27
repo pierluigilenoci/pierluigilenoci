@@ -8,31 +8,31 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [kubernetes-sigs/azurefile-csi-driver](https://github.com/kubernetes-sigs/azurefile-csi-driver) - Azure File CSI Driver
+- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) - small CLI tool to do aws with mfa and update credentials in local aws config
-- [23andMe/Yamale](https://github.com/23andMe/Yamale) - A schema and validator for YAML.
 
 
 
 ### 🔨 My recent Pull Requests
 
-- [Honor stderrthreshold when logtostderr is enabled](https://github.com/DataDog/datadog-agent/pull/48459) on [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent)
-- [Honor stderrthreshold when logtostderr is enabled](https://github.com/falcosecurity/falco-talon/pull/735) on [falcosecurity/falco-talon](https://github.com/falcosecurity/falco-talon)
-- [Honor stderrthreshold when logtostderr is enabled](https://github.com/nats-io/nack/pull/352) on [nats-io/nack](https://github.com/nats-io/nack)
-- [Honor stderrthreshold when logtostderr is enabled](https://github.com/kubeflow/mpi-operator/pull/794) on [kubeflow/mpi-operator](https://github.com/kubeflow/mpi-operator)
-- [Honor stderrthreshold when logtostderr is enabled](https://github.com/google/cadvisor/pull/3859) on [google/cadvisor](https://github.com/google/cadvisor)
-- [Honor stderrthreshold when logtostderr is enabled](https://github.com/cilium/tetragon/pull/4805) on [cilium/tetragon](https://github.com/cilium/tetragon)
-- [Honor stderrthreshold when logtostderr is enabled](https://github.com/argoproj/argo-events/pull/3962) on [argoproj/argo-events](https://github.com/argoproj/argo-events)
-- [Honor stderrthreshold when logtostderr is enabled](https://github.com/argoproj/argo-rollouts/pull/4673) on [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts)
-- [Honor stderrthreshold when logtostderr is enabled](https://github.com/argoproj/argo-workflows/pull/15814) on [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
-- [Honor stderrthreshold when logtostderr is enabled](https://github.com/argoproj/argo-cd/pull/27029) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+- [[Clang] Allow VDBPSADBW intrinsics in constexpr](https://github.com/llvm/llvm-project/pull/188887) on [llvm/llvm-project](https://github.com/llvm/llvm-project)
+- [Auth: add configurable timeout for OAuth token exchange](https://github.com/grafana/grafana/pull/121270) on [grafana/grafana](https://github.com/grafana/grafana)
+- [ToolbarButton: fix text overflow causing overlap with adjacent elements](https://github.com/grafana/grafana/pull/121269) on [grafana/grafana](https://github.com/grafana/grafana)
+- [Migrate from klog v1 to klog/v2 and honor stderrthreshold](https://github.com/redhat-developer/odo/pull/7364) on [redhat-developer/odo](https://github.com/redhat-developer/odo)
+- [Migrate from klog v1 to klog/v2 and honor stderrthreshold](https://github.com/redhat-developer/odo/pull/7363) on [redhat-developer/odo](https://github.com/redhat-developer/odo)
+- [Migrate from klog v1 to klog/v2 and honor stderrthreshold](https://github.com/dapr/dapr/pull/9712) on [dapr/dapr](https://github.com/dapr/dapr)
+- [Migrate from klog v1 to klog/v2 and honor stderrthreshold](https://github.com/vmware-tanzu/sonobuoy/pull/2046) on [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy)
+- [Migrate from klog v1 to klog/v2 and honor stderrthreshold](https://github.com/AliyunContainerService/kube-eventer/pull/309) on [AliyunContainerService/kube-eventer](https://github.com/AliyunContainerService/kube-eventer)
+- [Migrate from klog v1 to klog/v2 and honor stderrthreshold](https://github.com/volcano-sh/kubegene/pull/69) on [volcano-sh/kubegene](https://github.com/volcano-sh/kubegene)
+- [Migrate from klog v1 to klog/v2 and honor stderrthreshold](https://github.com/hashicorp/terraform-provider-helm/pull/1772) on [hashicorp/terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -42,10 +42,10 @@ Father and DevOps Engineer in Berlin, Germany
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.15.1`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.15.1) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) [`v0.2.26`](https://github.com/k8sgpt-ai/k8sgpt-operator/releases/tag/v0.2.26) - Automatic SRE Superpowers within your Kubernetes cluster
 - [kubernetes-sigs/azurefile-csi-driver](https://github.com/kubernetes-sigs/azurefile-csi-driver) [`v1.35.1`](https://github.com/kubernetes-sigs/azurefile-csi-driver/releases/tag/v1.35.1) - Azure File CSI Driver
+- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) [`v0.5.0`](https://github.com/kubernetes-sigs/krew/releases/tag/v0.5.0) - 📦 Find and install kubectl plugins
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) [`v3.10.0`](https://github.com/prometheus/prometheus/releases/tag/v3.10.0) - The Prometheus monitoring system and time series database.
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.10`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.10) - Various helm charts migrated from [helm/stable] due to deprecation
 - [signavio/aws-mfa-login](https://github.com/signavio/aws-mfa-login) [`v0.1.46`](https://github.com/signavio/aws-mfa-login/releases/tag/v0.1.46) - small CLI tool to do aws with mfa and update credentials in local aws config
-- [23andMe/Yamale](https://github.com/23andMe/Yamale) [`6.1.0`](https://github.com/23andMe/Yamale/releases/tag/6.1.0) - A schema and validator for YAML.
 
 ### ⭐ Recent Stars
 
