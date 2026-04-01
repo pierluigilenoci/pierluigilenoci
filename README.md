@@ -8,15 +8,15 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
-- [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+- [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
+- [containers/nri-plugins](https://github.com/containers/nri-plugins) - A collection of community maintained NRI plugins
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
+- [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [kubepug/kubepug](https://github.com/kubepug/kubepug) - Kubernetes PreUpGrade (Checker)
-- [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
 - [juicedata/juicefs-csi-driver](https://github.com/juicedata/juicefs-csi-driver) - JuiceFS CSI Driver
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) - A management framework for extending Kubernetes with Operators
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
-- [volcano-sh/kthena](https://github.com/volcano-sh/kthena) - Kubernetes-native AI serving platform for scalable model serving.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 
 
@@ -36,6 +36,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
+- [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) [`v1.24.0-rc.1`](https://github.com/GoogleContainerTools/config-sync/releases/tag/v1.24.0-rc.1) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
 - [alibaba/nacos](https://github.com/alibaba/nacos) [`3.2.1-2026.03.30`](https://github.com/alibaba/nacos/releases/tag/3.2.1-2026.03.30) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) [`v3.11.0-rc.0`](https://github.com/prometheus/prometheus/releases/tag/v3.11.0-rc.0) - The Prometheus monitoring system and time series database.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.4.2`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.4.2) - Helm charts to allow for the deployment of OAuth2-Proxy
@@ -45,7 +46,6 @@ Father and DevOps Engineer in Berlin, Germany
 - [juicedata/juicefs-csi-driver](https://github.com/juicedata/juicefs-csi-driver) [`v0.31.4`](https://github.com/juicedata/juicefs-csi-driver/releases/tag/v0.31.4) - JuiceFS CSI Driver
 - [github/spec-kit](https://github.com/github/spec-kit) [`v0.4.3`](https://github.com/github/spec-kit/releases/tag/v0.4.3) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.15.1`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.15.1) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [kubernetes/kops](https://github.com/kubernetes/kops) [`v1.32.4`](https://github.com/kubernetes/kops/releases/tag/v1.32.4) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 
 ### ⭐ Recent Stars
 
