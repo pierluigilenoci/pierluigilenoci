@@ -8,16 +8,16 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
-- [google/triage-party](https://github.com/google/triage-party) - 🎉 Triage Party: massively multi-player GitHub triage 🎉
+- [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
+- [google/triage-party](https://github.com/google/triage-party) - 🎉 Triage Party: massively multi-player GitHub triage 🎉
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
 - [containers/nri-plugins](https://github.com/containers/nri-plugins) - A collection of community maintained NRI plugins
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-- [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [kubepug/kubepug](https://github.com/kubepug/kubepug) - Kubernetes PreUpGrade (Checker)
+- [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [volcano-sh/kthena](https://github.com/volcano-sh/kthena) - Kubernetes-native AI serving platform for scalable model serving.
 
 
 
@@ -36,11 +36,11 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
+- [alibaba/nacos](https://github.com/alibaba/nacos) [`3.2.1-2026.04.03`](https://github.com/alibaba/nacos/releases/tag/3.2.1-2026.04.03) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [github/spec-kit](https://github.com/github/spec-kit) [`v0.5.0`](https://github.com/github/spec-kit/releases/tag/v0.5.0) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) [`v3.7.13`](https://github.com/argoproj/argo-workflows/releases/tag/v3.7.13) - Workflow Engine for Kubernetes
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) [`v3.11.0`](https://github.com/prometheus/prometheus/releases/tag/v3.11.0) - The Prometheus monitoring system and time series database.
 - [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) [`v1.24.0-rc.1`](https://github.com/GoogleContainerTools/config-sync/releases/tag/v1.24.0-rc.1) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
-- [alibaba/nacos](https://github.com/alibaba/nacos) [`3.2.1-2026.03.30`](https://github.com/alibaba/nacos/releases/tag/3.2.1-2026.03.30) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.4.2`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.4.2) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) [`v0.2.27`](https://github.com/k8sgpt-ai/k8sgpt-operator/releases/tag/v0.2.27) - Automatic SRE Superpowers within your Kubernetes cluster
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) [`v0.28.2`](https://github.com/flannel-io/flannel/releases/tag/v0.28.2) - flannel is a network fabric for containers, designed for Kubernetes
