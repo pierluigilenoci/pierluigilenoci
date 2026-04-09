@@ -36,16 +36,16 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
-- [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) [`v1.24.0-rc.2`](https://github.com/GoogleContainerTools/config-sync/releases/tag/v1.24.0-rc.2) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
+- [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) [`v1.24.0-rc.3`](https://github.com/GoogleContainerTools/config-sync/releases/tag/v1.24.0-rc.3) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
+- [github/spec-kit](https://github.com/github/spec-kit) [`v0.5.1`](https://github.com/github/spec-kit/releases/tag/v0.5.1) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) [`v3.0.0`](https://github.com/kubernetes-sigs/aws-efs-csi-driver/releases/tag/v3.0.0) - CSI Driver for Amazon EFS https://aws.amazon.com/efs/
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) [`v3.11.1`](https://github.com/prometheus/prometheus/releases/tag/v3.11.1) - The Prometheus monitoring system and time series database.
 - [rancher/cluster-api-provider-rke2](https://github.com/rancher/cluster-api-provider-rke2) [`v0.24.2`](https://github.com/rancher/cluster-api-provider-rke2/releases/tag/v0.24.2) - RKE2 bootstrap and control-plane Cluster API providers.
 - [alibaba/nacos](https://github.com/alibaba/nacos) [`3.2.1-2026.04.03`](https://github.com/alibaba/nacos/releases/tag/3.2.1-2026.04.03) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
-- [github/spec-kit](https://github.com/github/spec-kit) [`v0.5.0`](https://github.com/github/spec-kit/releases/tag/v0.5.0) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) [`v3.7.13`](https://github.com/argoproj/argo-workflows/releases/tag/v3.7.13) - Workflow Engine for Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.4.2`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.4.2) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) [`v0.2.27`](https://github.com/k8sgpt-ai/k8sgpt-operator/releases/tag/v0.2.27) - Automatic SRE Superpowers within your Kubernetes cluster
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) [`v0.28.2`](https://github.com/flannel-io/flannel/releases/tag/v0.28.2) - flannel is a network fabric for containers, designed for Kubernetes
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) [`v3.3.6`](https://github.com/argoproj/argo-cd/releases/tag/v3.3.6) - Declarative Continuous Deployment for Kubernetes
 
 ### ⭐ Recent Stars
 
