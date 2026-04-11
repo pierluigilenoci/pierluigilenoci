@@ -8,21 +8,22 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
 - [google/triage-party](https://github.com/google/triage-party) - 🎉 Triage Party: massively multi-player GitHub triage 🎉
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
 - [containers/nri-plugins](https://github.com/containers/nri-plugins) - A collection of community maintained NRI plugins
-- [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [kubepug/kubepug](https://github.com/kubepug/kubepug) - Kubernetes PreUpGrade (Checker)
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-- [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) - A management framework for extending Kubernetes with Operators
+- [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 
 
 
 ### 🔨 My recent Pull Requests
 
+- [chore: bump Go version to 1.26](https://github.com/kubeflow/mpi-operator/pull/796) on [kubeflow/mpi-operator](https://github.com/kubeflow/mpi-operator)
 - [Honor stderrthreshold when logtostderr is enabled](https://github.com/cert-manager/cert-manager/pull/8667) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
 - [Honor stderrthreshold when logtostderr is enabled](https://github.com/nats-io/nack/pull/354) on [nats-io/nack](https://github.com/nats-io/nack)
 - [fix: honor stderrthreshold when logtostderr is enabled](https://github.com/cert-manager/cert-manager/pull/8663) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
@@ -32,20 +33,19 @@ Father and DevOps Engineer in Berlin, Germany
 - [fix: honor --stderrthreshold flag when --logtostderr is enabled](https://github.com/kubepug/kubepug/pull/757) on [kubepug/kubepug](https://github.com/kubepug/kubepug)
 - [fix: honor --stderrthreshold flag when --logtostderr is enabled](https://github.com/flannel-io/flannel/pull/2405) on [flannel-io/flannel](https://github.com/flannel-io/flannel)
 - [fix: honor --stderrthreshold flag when --logtostderr is enabled](https://github.com/openshift/machine-api-operator/pull/1485) on [openshift/machine-api-operator](https://github.com/openshift/machine-api-operator)
-- [fix: honor stderrthreshold when logtostderr is enabled](https://github.com/warm-metal/container-image-csi-driver/pull/192) on [warm-metal/container-image-csi-driver](https://github.com/warm-metal/container-image-csi-driver)
 
 ### 🔭 Latest releases I've contributed to
 
-- [github/spec-kit](https://github.com/github/spec-kit) [`v0.6.0`](https://github.com/github/spec-kit/releases/tag/v0.6.0) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [containerd/containerd](https://github.com/containerd/containerd) [`api/v1.11.0-beta.1`](https://github.com/containerd/containerd/releases/tag/api/v1.11.0-beta.1) - An open and reliable container runtime
+- [github/spec-kit](https://github.com/github/spec-kit) [`v0.6.1`](https://github.com/github/spec-kit/releases/tag/v0.6.1) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) [`v1.24.0-rc.4`](https://github.com/GoogleContainerTools/config-sync/releases/tag/v1.24.0-rc.4) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) [`v0.42.0`](https://github.com/operator-framework/operator-lifecycle-manager/releases/tag/v0.42.0) - A management framework for extending Kubernetes with Operators
-- [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) [`v1.24.0-rc.3`](https://github.com/GoogleContainerTools/config-sync/releases/tag/v1.24.0-rc.3) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
 - [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) [`v3.0.0`](https://github.com/kubernetes-sigs/aws-efs-csi-driver/releases/tag/v3.0.0) - CSI Driver for Amazon EFS https://aws.amazon.com/efs/
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) [`v3.11.1`](https://github.com/prometheus/prometheus/releases/tag/v3.11.1) - The Prometheus monitoring system and time series database.
 - [rancher/cluster-api-provider-rke2](https://github.com/rancher/cluster-api-provider-rke2) [`v0.24.2`](https://github.com/rancher/cluster-api-provider-rke2/releases/tag/v0.24.2) - RKE2 bootstrap and control-plane Cluster API providers.
 - [alibaba/nacos](https://github.com/alibaba/nacos) [`3.2.1-2026.04.03`](https://github.com/alibaba/nacos/releases/tag/3.2.1-2026.04.03) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) [`v3.7.13`](https://github.com/argoproj/argo-workflows/releases/tag/v3.7.13) - Workflow Engine for Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.4.2`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.4.2) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) [`v0.2.27`](https://github.com/k8sgpt-ai/k8sgpt-operator/releases/tag/v0.2.27) - Automatic SRE Superpowers within your Kubernetes cluster
 
 ### ⭐ Recent Stars
 
