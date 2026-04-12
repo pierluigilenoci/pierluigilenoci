@@ -36,7 +36,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
-- [containerd/containerd](https://github.com/containerd/containerd) [`api/v1.11.0-beta.1`](https://github.com/containerd/containerd/releases/tag/api/v1.11.0-beta.1) - An open and reliable container runtime
+- [containerd/containerd](https://github.com/containerd/containerd) [`v2.3.0-beta.1`](https://github.com/containerd/containerd/releases/tag/v2.3.0-beta.1) - An open and reliable container runtime
 - [github/spec-kit](https://github.com/github/spec-kit) [`v0.6.1`](https://github.com/github/spec-kit/releases/tag/v0.6.1) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) [`v1.24.0-rc.4`](https://github.com/GoogleContainerTools/config-sync/releases/tag/v1.24.0-rc.4) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) [`v0.42.0`](https://github.com/operator-framework/operator-lifecycle-manager/releases/tag/v0.42.0) - A management framework for extending Kubernetes with Operators
