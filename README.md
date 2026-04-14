@@ -8,16 +8,16 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
+- [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from simple local filesystem storage.
+- [kubeflow/mpi-operator](https://github.com/kubeflow/mpi-operator) - Kubernetes Operator for MPI-based applications (distributed training, HPC, etc.)
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
-- [google/triage-party](https://github.com/google/triage-party) - 🎉 Triage Party: massively multi-player GitHub triage 🎉
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
-- [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
-- [containers/nri-plugins](https://github.com/containers/nri-plugins) - A collection of community maintained NRI plugins
-- [kubepug/kubepug](https://github.com/kubepug/kubepug) - Kubernetes PreUpGrade (Checker)
-- [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+- [google/triage-party](https://github.com/google/triage-party) - 🎉 Triage Party: massively multi-player GitHub triage 🎉
 
 
 
@@ -36,16 +36,16 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
+- [istio/istio](https://github.com/istio/istio) [`1.28.6`](https://github.com/istio/istio/releases/tag/1.28.6) - Connect, secure, control, and observe services.
+- [github/spec-kit](https://github.com/github/spec-kit) [`v0.6.2`](https://github.com/github/spec-kit/releases/tag/v0.6.2) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) [`v3.11.2`](https://github.com/prometheus/prometheus/releases/tag/v3.11.2) - The Prometheus monitoring system and time series database.
 - [containerd/containerd](https://github.com/containerd/containerd) [`v2.3.0-beta.1`](https://github.com/containerd/containerd/releases/tag/v2.3.0-beta.1) - An open and reliable container runtime
-- [github/spec-kit](https://github.com/github/spec-kit) [`v0.6.1`](https://github.com/github/spec-kit/releases/tag/v0.6.1) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) [`v1.24.0-rc.4`](https://github.com/GoogleContainerTools/config-sync/releases/tag/v1.24.0-rc.4) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) [`v0.42.0`](https://github.com/operator-framework/operator-lifecycle-manager/releases/tag/v0.42.0) - A management framework for extending Kubernetes with Operators
 - [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) [`v3.0.0`](https://github.com/kubernetes-sigs/aws-efs-csi-driver/releases/tag/v3.0.0) - CSI Driver for Amazon EFS https://aws.amazon.com/efs/
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) [`v3.11.1`](https://github.com/prometheus/prometheus/releases/tag/v3.11.1) - The Prometheus monitoring system and time series database.
 - [rancher/cluster-api-provider-rke2](https://github.com/rancher/cluster-api-provider-rke2) [`v0.24.2`](https://github.com/rancher/cluster-api-provider-rke2/releases/tag/v0.24.2) - RKE2 bootstrap and control-plane Cluster API providers.
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) [`v1.25.1`](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.25.1) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [alibaba/nacos](https://github.com/alibaba/nacos) [`3.2.1-2026.04.03`](https://github.com/alibaba/nacos/releases/tag/3.2.1-2026.04.03) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) [`v3.7.13`](https://github.com/argoproj/argo-workflows/releases/tag/v3.7.13) - Workflow Engine for Kubernetes
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.4.2`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.4.2) - Helm charts to allow for the deployment of OAuth2-Proxy
 
 ### ⭐ Recent Stars
 
