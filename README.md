@@ -8,16 +8,16 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
+- [AliyunContainerService/kube-eventer](https://github.com/AliyunContainerService/kube-eventer) - kube-eventer emit kubernetes events to sinks 
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
-- [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from simple local filesystem storage.
+- [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - Main repository for Datadog Agent
 - [kubeflow/mpi-operator](https://github.com/kubeflow/mpi-operator) - Kubernetes Operator for MPI-based applications (distributed training, HPC, etc.)
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from simple local filesystem storage.
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
-- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
-- [google/triage-party](https://github.com/google/triage-party) - 🎉 Triage Party: massively multi-player GitHub triage 🎉
 
 
 
@@ -36,24 +36,24 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
-- [istio/istio](https://github.com/istio/istio) [`1.28.6`](https://github.com/istio/istio/releases/tag/1.28.6) - Connect, secure, control, and observe services.
-- [github/spec-kit](https://github.com/github/spec-kit) [`v0.6.2`](https://github.com/github/spec-kit/releases/tag/v0.6.2) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [projectcalico/calico](https://github.com/projectcalico/calico) [`v3.31.5`](https://github.com/projectcalico/calico/releases/tag/v3.31.5) - Cloud native networking and network security
+- [github/spec-kit](https://github.com/github/spec-kit) [`v0.7.0`](https://github.com/github/spec-kit/releases/tag/v0.7.0) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [containerd/containerd](https://github.com/containerd/containerd) [`v2.2.3`](https://github.com/containerd/containerd/releases/tag/v2.2.3) - An open and reliable container runtime
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.4.3`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.4.3) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [istio/istio](https://github.com/istio/istio) [`1.30.0-alpha.1`](https://github.com/istio/istio/releases/tag/1.30.0-alpha.1) - Connect, secure, control, and observe services.
+- [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) [`v3.0.0`](https://github.com/kubernetes-sigs/aws-efs-csi-driver/releases/tag/v3.0.0) - CSI Driver for Amazon EFS https://aws.amazon.com/efs/
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.15.2`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.15.2) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) [`v3.11.2`](https://github.com/prometheus/prometheus/releases/tag/v3.11.2) - The Prometheus monitoring system and time series database.
-- [containerd/containerd](https://github.com/containerd/containerd) [`v2.3.0-beta.1`](https://github.com/containerd/containerd/releases/tag/v2.3.0-beta.1) - An open and reliable container runtime
 - [GoogleContainerTools/config-sync](https://github.com/GoogleContainerTools/config-sync) [`v1.24.0-rc.4`](https://github.com/GoogleContainerTools/config-sync/releases/tag/v1.24.0-rc.4) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) [`v0.42.0`](https://github.com/operator-framework/operator-lifecycle-manager/releases/tag/v0.42.0) - A management framework for extending Kubernetes with Operators
-- [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) [`v3.0.0`](https://github.com/kubernetes-sigs/aws-efs-csi-driver/releases/tag/v3.0.0) - CSI Driver for Amazon EFS https://aws.amazon.com/efs/
-- [rancher/cluster-api-provider-rke2](https://github.com/rancher/cluster-api-provider-rke2) [`v0.24.2`](https://github.com/rancher/cluster-api-provider-rke2/releases/tag/v0.24.2) - RKE2 bootstrap and control-plane Cluster API providers.
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) [`v1.25.1`](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.25.1) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [alibaba/nacos](https://github.com/alibaba/nacos) [`3.2.1-2026.04.03`](https://github.com/alibaba/nacos/releases/tag/3.2.1-2026.04.03) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 
 ### ⭐ Recent Stars
 
+- [nikolockenvitz/sap-addon](https://github.com/nikolockenvitz/sap-addon) - Firefox/Chrome Extension for SAP internal webpages
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [agynio/gh-pr-review](https://github.com/agynio/gh-pr-review) - GitHub CLI extension that adds full inline PR review comment support — view, navigate, reply to, and resolve review threads directly from the terminal. LLM-ready and ideal for automated PR review agents.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Red-Killer/shit](https://github.com/Red-Killer/shit) - 
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 
 ### 💖 Recent followers
 
