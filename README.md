@@ -8,16 +8,16 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 👷 Check out what I'm currently working on
 
+- [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm) - Helm Charts for the Litmus Chaos Operator &amp; CRDs 
+- [litmuschaos/test-tools](https://github.com/litmuschaos/test-tools) - A set of containerized applications, workload generators that will be consumed by openebs/e2e &amp; openebs/litmus 
+- [litmuschaos/chaos-charts](https://github.com/litmuschaos/chaos-charts) - Repository to hold chaos experiments resource YAML bundles
 - [kubeflow/mpi-operator](https://github.com/kubeflow/mpi-operator) - Kubernetes Operator for MPI-based applications (distributed training, HPC, etc.)
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - Main repository for Datadog Agent
 - [AliyunContainerService/kube-eventer](https://github.com/AliyunContainerService/kube-eventer) - kube-eventer emit kubernetes events to sinks 
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
-- [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from simple local filesystem storage.
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
-- [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
+- [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from simple local filesystem storage.
 
 
 
@@ -36,16 +36,16 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/azurefile-csi-driver](https://github.com/kubernetes-sigs/azurefile-csi-driver) [`v1.35.2`](https://github.com/kubernetes-sigs/azurefile-csi-driver/releases/tag/v1.35.2) - Azure File CSI Driver
+- [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) [`v3.0.1`](https://github.com/kubernetes-sigs/aws-efs-csi-driver/releases/tag/v3.0.1) - CSI Driver for Amazon EFS https://aws.amazon.com/efs/
+- [github/spec-kit](https://github.com/github/spec-kit) [`v0.7.2`](https://github.com/github/spec-kit/releases/tag/v0.7.2) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) [`v3.4.0-rc5`](https://github.com/argoproj/argo-cd/releases/tag/v3.4.0-rc5) - Declarative Continuous Deployment for Kubernetes
+- [litmuschaos/chaos-charts](https://github.com/litmuschaos/chaos-charts) [`3.28.0`](https://github.com/litmuschaos/chaos-charts/releases/tag/3.28.0) - Repository to hold chaos experiments resource YAML bundles
+- [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm) [`litmus-core-3.28.1`](https://github.com/litmuschaos/litmus-helm/releases/tag/litmus-core-3.28.1) - Helm Charts for the Litmus Chaos Operator &amp; CRDs 
 - [kubernetes-csi/csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs) [`v4.13.2`](https://github.com/kubernetes-csi/csi-driver-nfs/releases/tag/v4.13.2) - This driver allows Kubernetes to access NFS server on Linux node.
-- [github/spec-kit](https://github.com/github/spec-kit) [`v0.7.1`](https://github.com/github/spec-kit/releases/tag/v0.7.1) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [istio/istio](https://github.com/istio/istio) [`1.30.0-alpha.2`](https://github.com/istio/istio/releases/tag/1.30.0-alpha.2) - Connect, secure, control, and observe services.
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) [`v0.28.4`](https://github.com/flannel-io/flannel/releases/tag/v0.28.4) - flannel is a network fabric for containers, designed for Kubernetes
 - [containerd/containerd](https://github.com/containerd/containerd) [`api/v1.11.0-beta.2`](https://github.com/containerd/containerd/releases/tag/api/v1.11.0-beta.2) - An open and reliable container runtime
-- [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) [`7.78.0`](https://github.com/DataDog/datadog-agent/releases/tag/7.78.0) - Main repository for Datadog Agent
-- [projectcalico/calico](https://github.com/projectcalico/calico) [`v3.31.5`](https://github.com/projectcalico/calico/releases/tag/v3.31.5) - Cloud native networking and network security
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-10.4.3`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.4.3) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) [`v3.0.0`](https://github.com/kubernetes-sigs/aws-efs-csi-driver/releases/tag/v3.0.0) - CSI Driver for Amazon EFS https://aws.amazon.com/efs/
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.15.2`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.15.2) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 ### ⭐ Recent Stars
 
@@ -57,8 +57,8 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 💖 Recent followers
 
+- [**@Shwethamuralikrishnaa**](https://github.com/Shwethamuralikrishnaa)
 - [**@sirmmo**](https://github.com/sirmmo)
 - [**@rolloerro**](https://github.com/rolloerro)
 - [**@marcodelpin**](https://github.com/marcodelpin)
 - [**@Wolkenfarmer**](https://github.com/Wolkenfarmer)
-- [**@Invisibleaxe**](https://github.com/Invisibleaxe)
