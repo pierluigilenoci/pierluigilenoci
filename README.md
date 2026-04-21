@@ -25,7 +25,7 @@ Father and DevOps Engineer in Berlin, Germany
 
 - [fix(admin-ui): enable no-unnecessary-condition ESLint rule](https://github.com/keycloak/keycloak/pull/48218) on [keycloak/keycloak](https://github.com/keycloak/keycloak)
 - [ci: use ubuntu:16.04 for build-old-chain-jemalloc job](https://github.com/redis/redis/pull/15064) on [redis/redis](https://github.com/redis/redis)
-- [test: add unit tests for iwyu_regex, iwyu_verrs, and iwyu_stl_util](https://github.com/include-what-you-use/include-what-you-use/pull/2006) on [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use)
+- [Add unit tests for iwyu_regex, iwyu_verrs and iwyu_stl_util](https://github.com/include-what-you-use/include-what-you-use/pull/2006) on [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use)
 - [fix(iwyu_tool): reduce CPU usage in job polling loop](https://github.com/include-what-you-use/include-what-you-use/pull/2005) on [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use)
 - [fix: add parentheses to IWYU_ARRAYSIZE macro expression](https://github.com/include-what-you-use/include-what-you-use/pull/2004) on [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use)
 - [docs: fix http:// links and add License/Contributing sections to README](https://github.com/include-what-you-use/include-what-you-use/pull/2003) on [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use)
@@ -36,9 +36,9 @@ Father and DevOps Engineer in Berlin, Germany
 
 ### 🔭 Latest releases I've contributed to
 
+- [volcano-sh/kthena](https://github.com/volcano-sh/kthena) [`v0.4.0`](https://github.com/volcano-sh/kthena/releases/tag/v0.4.0) - Kubernetes-native AI serving platform for scalable model serving.
 - [github/spec-kit](https://github.com/github/spec-kit) [`v0.7.3`](https://github.com/github/spec-kit/releases/tag/v0.7.3) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [containerd/containerd](https://github.com/containerd/containerd) [`v2.3.0-beta.2`](https://github.com/containerd/containerd/releases/tag/v2.3.0-beta.2) - An open and reliable container runtime
-- [volcano-sh/kthena](https://github.com/volcano-sh/kthena) [`v0.4.0-rc.0`](https://github.com/volcano-sh/kthena/releases/tag/v0.4.0-rc.0) - Kubernetes-native AI serving platform for scalable model serving.
 - [rancher/cluster-api-provider-rke2](https://github.com/rancher/cluster-api-provider-rke2) [`v0.24.3`](https://github.com/rancher/cluster-api-provider-rke2/releases/tag/v0.24.3) - RKE2 bootstrap and control-plane Cluster API providers.
 - [kubernetes-sigs/azurefile-csi-driver](https://github.com/kubernetes-sigs/azurefile-csi-driver) [`v1.35.2`](https://github.com/kubernetes-sigs/azurefile-csi-driver/releases/tag/v1.35.2) - Azure File CSI Driver
 - [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) [`v3.0.1`](https://github.com/kubernetes-sigs/aws-efs-csi-driver/releases/tag/v3.0.1) - CSI Driver for Amazon EFS https://aws.amazon.com/efs/
